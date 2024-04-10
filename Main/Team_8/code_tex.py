@@ -1,4 +1,3 @@
-
 """Tasks given:
    1.)To find syntax related errors in different references like journal,conference,textbook,etc
    2.To find acronym related errors
@@ -384,4 +383,3 @@ class team_8:
                 
 
                                                                                                             
-
